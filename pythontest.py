@@ -1,3 +1,4 @@
 # Display the output
 
-print("Not gay")
+print("not gay")
+
